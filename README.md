@@ -15,3 +15,11 @@
 [7.[야보자]논리물리ERD.pdf](https://github.com/MinYoop/Example1/files/3215250/7.ERD.pdf)
 
 [8.[야보자]테이블정의서.pdf](https://github.com/MinYoop/Example1/files/3215251/8.pdf)
+
+
+
+
+[발표ppt.pptx](https://github.com/MinYoop/semi-front/files/3215325/PPT.ppt.pptx)
+
+
+
